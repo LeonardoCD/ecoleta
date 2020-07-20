@@ -1,0 +1,13 @@
+{
+	"name": "Exemplo",
+	"email": "contato@imperatriz.com.br",
+	"whatsapp": "95991737095",
+	"latitude": -46.81273224,
+	"longitude": -35.19238126,
+	"city": "Boa Vista",
+	"uf": "RR",
+	"items": [
+		4,
+		6
+	]
+}
