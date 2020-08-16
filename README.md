@@ -10,7 +10,15 @@
   <a href="https://reactnative.dev/">
     <img src="https://img.shields.io/static/v1?label=React&message=Native&color=blue?style=plastic&logo=React" alt="React-Native" />
   </a>
+   <a href="https://www.linkedin.com/in/leonardo-f-carvalho/">
+    <img alt="Made by LeonardoCarvalho" src="https://img.shields.io/badge/made%20by-LeonardoCarvalho-%2304D361">
+  </a>
 </p>
+## :information_source: What's Next Level Week?
+
+NLW is a practical week with lots of code, challenges, networking and a single objective: to take you to the next level.
+Through our method you will learn new tools, learn about new technologies and discover hacks that will boost your career.
+An online and completely free event that will help you take the next step in your evolution as a dev.
 <p align="center"><img src="./docs/capa.png" /></p>
 
 # Summary
