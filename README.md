@@ -46,8 +46,13 @@ The project was developed using the following technologies
 - [ReactJS](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
 
+## :cloud: External API
+The web and mobile project used an external API to load the states and cities of Brazil.
+
+-  [IBGE](https://servicodados.ibge.gov.br/api/docs/localidades)
+
 ## :art: Figma
-Design: <a href="https://www.figma.com/file/GOKVazlAEsQwNjQguJ1hhc/Ecoleta?node-id=0%3A1" target="__blank">Project Link</a>
+To access the layout use Figma: <a href="https://www.figma.com/file/GOKVazlAEsQwNjQguJ1hhc/Ecoleta?node-id=0%3A1" target="__blank">Project Link</a>
 
 <a id="how-use"></a>
 
@@ -103,5 +108,5 @@ This project use MIT license, see the file [LICENSE](.github/LICENSE.md) for mor
 ---
 
 <h4 align="center">
-    Made with 💜 by <a href="https://www.linkedin.com/in/janderson-fa" target="_blank">Janderson Fonseca</a>
+    Made with 💜 by <a href="https://www.linkedin.com/in/leonardo-f-carvalho/" target="_blank">Leonardo Carvalho</a>
 </h4>
